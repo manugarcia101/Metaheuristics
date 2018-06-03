@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1509455631 source:f:\universidad\3º curso\metaheurísticas\practicas\practica 1\practica1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<random>
+	<algorithm>
+	<cmath>
+	<ctime>
+	<chrono>
+
+1507032882 f:\universidad\3º curso\metaheurísticas\practicas\practica 1\practica1\random.h
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+

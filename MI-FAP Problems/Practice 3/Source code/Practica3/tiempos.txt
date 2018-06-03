@@ -1,0 +1,169 @@
+DATOS 1	 															
+Semilla	77384109	 Archivo	 scen06	 Coste	159	 Tiempo	 0.796915									0
+Semilla	77384109	 Archivo	 scen07	 Coste	573	 Tiempo	149.237									
+Semilla	77384109	 Archivo	 scen08	 Coste	1534	 Tiempo	246.888									
+Semilla	77384109	 Archivo	 scen09	 Coste	1005	 Tiempo	181.259									
+Semilla	77384109	 Archivo	 scen10	 Coste	858	 Tiempo	178.134									
+Semilla	77384109	 Archivo	 graph05	 Coste	218	 Tiempo	165.634									
+Semilla	77384109	 Archivo	 graph06	 Coste	535	 Tiempo	10.938									
+Semilla	77384109	 Archivo	 graph07	 Coste	620	 Tiempo	107.818									
+Semilla	77384109	 Archivo	 graph11	 Coste	1369	 Tiempo	176.809									
+Semilla	77384109	 Archivo	 graph12	 Coste	1329	 Tiempo	176.572									
+																
+Semilla	73841097	 Archivo	 scen06	 Coste	182	 Tiempo	 0.796915									
+Semilla	73841097	 Archivo	 scen07	 Coste	643	 Tiempo	131.256									
+Semilla	73841097	 Archivo	 scen08	 Coste	1768	 Tiempo	251.575									
+Semilla	73841097	 Archivo	 scen09	 Coste	1135	 Tiempo	179.503									
+Semilla	73841097	 Archivo	 scen10	 Coste	1085	 Tiempo	190.635									
+Semilla	73841097	 Archivo	 graph05	 Coste	253	 Tiempo	 0.656282									
+Semilla	73841097	 Archivo	 graph06	 Coste	536	 Tiempo	106.255									
+Semilla	73841097	 Archivo	 graph07	 Coste	702	 Tiempo	107.818									
+Semilla	73841097	 Archivo	 graph11	 Coste	1196	 Tiempo	170.321									
+Semilla	73841097	 Archivo	 graph12	 Coste	1398	 Tiempo	182.822									
+																
+Semilla	38410977	 Archivo	 scen06	 Coste	201	 Tiempo	 0.73441									
+Semilla	38410977	 Archivo	 scen07	 Coste	664	 Tiempo	131.257									
+Semilla	38410977	 Archivo	 scen08	 Coste	1560	 Tiempo	251.575									
+Semilla	38410977	 Archivo	 scen09	 Coste	1128	 Tiempo	403.146									
+Semilla	38410977	 Archivo	 scen10	 Coste	1102	 Tiempo	182.822									
+Semilla	38410977	 Archivo	 graph05	 Coste	243	 Tiempo	 0.609406									
+Semilla	38410977	 Archivo	 graph06	 Coste	603	 Tiempo	106.256									
+Semilla	38410977	 Archivo	 graph07	 Coste	589	 Tiempo	646.909									
+Semilla	38410977	 Archivo	 graph11	 Coste	1248	 Tiempo	171.884									
+Semilla	38410977	 Archivo	 graph12	 Coste	1365	 Tiempo	185.472									
+																
+Semilla	84109773	 Archivo	 scen06	 Coste	164	 Tiempo	 0.765662									
+Semilla	84109773	 Archivo	 scen07	 Coste	620	 Tiempo	135.944									
+Semilla	84109773	 Archivo	 scen08	 Coste	1552	 Tiempo	257.826									
+Semilla	84109773	 Archivo	 scen09	 Coste	906	 Tiempo	289.764									
+Semilla	84109773	 Archivo	 scen10	 Coste	987	 Tiempo	179.697									
+Semilla	84109773	 Archivo	 graph05	 Coste	243	 Tiempo	 0.640655									
+Semilla	84109773	 Archivo	 graph06	 Coste	579	 Tiempo	110.943									
+Semilla	84109773	 Archivo	 graph07	 Coste	686	 Tiempo	104.693									
+Semilla	84109773	 Archivo	 graph11	 Coste	1308	 Tiempo	168.758									
+Semilla	84109773	 Archivo	 graph12	 Coste	1422	 Tiempo	181.259									
+																
+Semilla	41097738	 Archivo	 scen06	 Coste	212	 Tiempo	550.029									
+Semilla	41097738	 Archivo	 scen07	 Coste	668	 Tiempo	134.382									
+Semilla	41097738	 Archivo	 scen08	 Coste	1387	 Tiempo	248.502									
+Semilla	41097738	 Archivo	 scen09	 Coste	1093	 Tiempo	179.697									
+Semilla	41097738	 Archivo	 scen10	 Coste	1042	 Tiempo	184.385									
+Semilla	41097738	 Archivo	 graph05	 Coste	284	 Tiempo	 0.640658									
+Semilla	41097738	 Archivo	 graph06	 Coste	593	 Tiempo	110.943									
+Semilla	41097738	 Archivo	 graph07	 Coste	736	 Tiempo	101.568									
+Semilla	41097738	 Archivo	 graph11	 Coste	1305	 Tiempo	174.797									
+Semilla	41097738	 Archivo	 graph12	 Coste	1488	 Tiempo	182.882									
+																
+																
+DATOS 2	 															
+Semilla	77384109	 Archivo	 scen06	 Coste	159	 Tiempo	351.894									
+Semilla	77384109	 Archivo	 scen07	 Coste	536	 Tiempo	71.602									
+Semilla	77384109	 Archivo	 scen08	 Coste	1217	 Tiempo	345.953									
+Semilla	77384109	 Archivo	 scen09	 Coste	855	 Tiempo	370.967									
+Semilla	77384109	 Archivo	 scen10	 Coste	827	 Tiempo	559.827									
+Semilla	77384109	 Archivo	 graph05	 Coste	194	 Tiempo	294.256									
+Semilla	77384109	 Archivo	 graph06	 Coste	479	 Tiempo	281.248									
+Semilla	77384109	 Archivo	 graph07	 Coste	553	 Tiempo	415.834									
+Semilla	77384109	 Archivo	 graph11	 Coste	1253	 Tiempo	462.048									
+Semilla	77384109	 Archivo	 graph12	 Coste	1166	 Tiempo	760.652									
+																
+Semilla	73841097	 Archivo	 scen06	 Coste	180	 Tiempo	237.269									
+Semilla	73841097	 Archivo	 scen07	 Coste	493	 Tiempo	539.443									
+Semilla	73841097	 Archivo	 scen08	 Coste	1302	 Tiempo	62.335									
+Semilla	73841097	 Archivo	 scen09	 Coste	1109	 Tiempo	110.929									
+Semilla	73841097	 Archivo	 scen10	 Coste	917	 Tiempo	949.791									
+Semilla	73841097	 Archivo	 graph05	 Coste	182	 Tiempo	133.461									
+Semilla	73841097	 Archivo	 graph06	 Coste	540	 Tiempo	624.139									
+Semilla	73841097	 Archivo	 graph07	 Coste	540	 Tiempo	315.652									
+Semilla	73841097	 Archivo	 graph11	 Coste	1114	 Tiempo	99.849									
+Semilla	73841097	 Archivo	 graph12	 Coste	1148	 Tiempo	109.445									
+																
+Semilla	38410977	 Archivo	 scen06	 Coste	161	 Tiempo	368.144									
+Semilla	38410977	 Archivo	 scen07	 Coste	555	 Tiempo	268.775									
+Semilla	38410977	 Archivo	 scen08	 Coste	1294	 Tiempo	83.709									
+Semilla	38410977	 Archivo	 scen09	 Coste	925	 Tiempo	111.619									
+Semilla	38410977	 Archivo	 scen10	 Coste	945	 Tiempo	 117.28									
+Semilla	38410977	 Archivo	 graph05	 Coste	165	 Tiempo	286.004									
+Semilla	38410977	 Archivo	 graph06	 Coste	581	 Tiempo	80.473									
+Semilla	38410977	 Archivo	 graph07	 Coste	525	 Tiempo	411.286									
+Semilla	38410977	 Archivo	 graph11	 Coste	1169	 Tiempo	467.324									
+Semilla	38410977	 Archivo	 graph12	 Coste	1200	 Tiempo	56.171									
+																
+Semilla	84109773	 Archivo	 scen06	 Coste	169	 Tiempo	397.677									
+Semilla	84109773	 Archivo	 scen07	 Coste	514	 Tiempo	45.597									
+Semilla	84109773	 Archivo	 scen08	 Coste	1330	 Tiempo	 112.07									
+Semilla	84109773	 Archivo	 scen09	 Coste	820	 Tiempo	120.246									
+Semilla	84109773	 Archivo	 scen10	 Coste	890	 Tiempo	944.626									
+Semilla	84109773	 Archivo	 graph05	 Coste	173	 Tiempo	12.482									
+Semilla	84109773	 Archivo	 graph06	 Coste	511	 Tiempo	179.384									
+Semilla	84109773	 Archivo	 graph07	 Coste	562	 Tiempo	748.477									
+Semilla	84109773	 Archivo	 graph11	 Coste	1166	 Tiempo	610.345									
+Semilla	84109773	 Archivo	 graph12	 Coste	1219	 Tiempo	299.859									
+																
+Semilla	41097738	 Archivo	 scen06	 Coste	182	 Tiempo	136.386									
+Semilla	41097738	 Archivo	 scen07	 Coste	491	 Tiempo	491.599									
+Semilla	41097738	 Archivo	 scen08	 Coste	1199	 Tiempo	127.337									
+Semilla	41097738	 Archivo	 scen09	 Coste	821	 Tiempo	482.543									
+Semilla	41097738	 Archivo	 scen10	 Coste	952	 Tiempo	635.679									
+Semilla	41097738	 Archivo	 graph05	 Coste	159	 Tiempo	56.878									
+Semilla	41097738	 Archivo	 graph06	 Coste	441	 Tiempo	189.854									
+Semilla	41097738	 Archivo	 graph07	 Coste	509	 Tiempo	154.604									
+Semilla	41097738	 Archivo	 graph11	 Coste	1230	 Tiempo	59.126									
+Semilla	41097738	 Archivo	 graph12	 Coste	1234	 Tiempo	656.772									
+																
+																
+DATOS 3	 															
+Semilla	77384109	 Archivo	 scen06	 Coste	121	 Tiempo	130.623									
+Semilla	77384109	 Archivo	 scen07	 Coste	386	 Tiempo	290.182									
+Semilla	77384109	 Archivo	 scen08	 Coste	1316	 Tiempo	 104.35									
+Semilla	77384109	 Archivo	 scen09	 Coste	842	 Tiempo	44.207									
+Semilla	77384109	 Archivo	 scen10	 Coste	864	 Tiempo	122.086									
+Semilla	77384109	 Archivo	 graph05	 Coste	151	 Tiempo	216.023									
+Semilla	77384109	 Archivo	 graph06	 Coste	464	 Tiempo	365.002									
+Semilla	77384109	 Archivo	 graph07	 Coste	424	 Tiempo	33.812									
+Semilla	77384109	 Archivo	 graph11	 Coste	1067	 Tiempo	419.546									
+Semilla	77384109	 Archivo	 graph12	 Coste	1203	 Tiempo	526.255									
+																
+Semilla	73841097	 Archivo	 scen06	 Coste	131	 Tiempo	291.647									
+Semilla	73841097	 Archivo	 scen07	 Coste	436	 Tiempo	280.025									
+Semilla	73841097	 Archivo	 scen08	 Coste	1318	 Tiempo	620.381									
+Semilla	73841097	 Archivo	 scen09	 Coste	1055	 Tiempo	446.738									
+Semilla	73841097	 Archivo	 scen10	 Coste	979	 Tiempo	598.707									
+Semilla	73841097	 Archivo	 graph05	 Coste	197	 Tiempo	220.509									
+Semilla	73841097	 Archivo	 graph06	 Coste	419	 Tiempo	400.818									
+Semilla	73841097	 Archivo	 graph07	 Coste	420	 Tiempo	294.401									
+Semilla	73841097	 Archivo	 graph11	 Coste	1093	 Tiempo	99.849									
+Semilla	73841097	 Archivo	 graph12	 Coste	1274	 Tiempo	644.091									
+																
+Semilla	38410977	 Archivo	 scen06	 Coste	180	 Tiempo	16.329									
+Semilla	38410977	 Archivo	 scen07	 Coste	581	 Tiempo	526.445									
+Semilla	38410977	 Archivo	 scen08	 Coste	1288	 Tiempo	843.965									
+Semilla	38410977	 Archivo	 scen09	 Coste	942	 Tiempo	176.592									
+Semilla	38410977	 Archivo	 scen10	 Coste	945	 Tiempo	131.109									
+Semilla	38410977	 Archivo	 graph05	 Coste	158	 Tiempo	132.356									
+Semilla	38410977	 Archivo	 graph06	 Coste	507	 Tiempo	260.482									
+Semilla	38410977	 Archivo	 graph07	 Coste	470	 Tiempo	364.409									
+Semilla	38410977	 Archivo	 graph11	 Coste	1096	 Tiempo	127.507									
+Semilla	38410977	 Archivo	 graph12	 Coste	1175	 Tiempo	692.046									
+																
+Semilla	84109773	 Archivo	 scen06	 Coste	163	 Tiempo	344.549									
+Semilla	84109773	 Archivo	 scen07	 Coste	462	 Tiempo	310.816									
+Semilla	84109773	 Archivo	 scen08	 Coste	1315	 Tiempo	788.807									
+Semilla	84109773	 Archivo	 scen09	 Coste	866	 Tiempo	933.382									
+Semilla	84109773	 Archivo	 scen10	 Coste	767	 Tiempo	716.158									
+Semilla	84109773	 Archivo	 graph05	 Coste	134	 Tiempo	164.354									
+Semilla	84109773	 Archivo	 graph06	 Coste	475	 Tiempo	253.138									
+Semilla	84109773	 Archivo	 graph07	 Coste	511	 Tiempo	523.465									
+Semilla	84109773	 Archivo	 graph11	 Coste	1102	 Tiempo	450.493									
+Semilla	84109773	 Archivo	 graph12	 Coste	1209	 Tiempo	355.295									
+																
+Semilla	41097738	 Archivo	 scen06	 Coste	141	 Tiempo	259.542									
+Semilla	41097738	 Archivo	 scen07	 Coste	472	 Tiempo	389.083									
+Semilla	41097738	 Archivo	 scen08	 Coste	1256	 Tiempo	487.831									
+Semilla	41097738	 Archivo	 scen09	 Coste	831	 Tiempo	521.295									
+Semilla	41097738	 Archivo	 scen10	 Coste	976	 Tiempo	281.108									
+Semilla	41097738	 Archivo	 graph05	 Coste	202	 Tiempo	108.131									
+Semilla	41097738	 Archivo	 graph06	 Coste	570	 Tiempo	152.508									
+Semilla	41097738	 Archivo	 graph07	 Coste	500	 Tiempo	258.791									
+Semilla	41097738	 Archivo	 graph11	 Coste	1103	 Tiempo	405.938									
+Semilla	41097738	 Archivo	 graph12	 Coste	1267	 Tiempo	841.699									

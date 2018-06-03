@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1512476362 source:f:\universidad\3º curso\metaheurísticas\practicas\practica3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<random>
+	<algorithm>
+	<cmath>
+	<ctime>
+	<chrono>
+	<thread>
+	<mutex>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
